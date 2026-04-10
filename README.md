@@ -7,9 +7,9 @@ Description:
 The Film Tracker is a web application that allows users to log, rate, and track movies they have watched or want to watch. Users can search for films, add ratings and written reviews, and maintain a personal watchlist. The system also includes upcoming films through a “Coming Soon” section so users can explore and plan future viewing.
 The purpose of this system is to create a centralized, user-friendly platform for organizing film viewing history and preferences. It simulates a real-world movie tracking application similar to Letterboxd by supporting user accounts, film metadata, ratings, and personalized watchlists.
 
-Your ERD — embedded as an image (![ERD](erd.png) or similar).
+Your ERD
 
-<img width="316" height="346" alt="erd" src="https://github.com/user-attachments/assets/9d44d00b-39d1-4f78-933d-8d01312c8dd9" />
+<img width="478" height="501" alt="Screenshot 2026-04-09 at 11 51 43 PM" src="https://github.com/user-attachments/assets/8214631f-2c52-4823-8583-a3b8f3d492ae" />
 
 Table descriptions
 
